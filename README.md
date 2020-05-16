@@ -32,7 +32,7 @@ Traing ResNet-50
 ```bash
 python3 examples/resnet50.py -a resnet50 --pretrained --start-epoch=90 --epochs=95 /path_to_imagenet
 ```
-![image](https://drive.google.com/open?id=1JxHAmkbBthQ36fr2jdAi8krkwJ9Q6rtL)
+![image](https://github.com/wdlctc/QPytorch-FP9/blob/master/retrain.png)
 
 ## Team
 * [Tianyi Zhang](https://scholar.google.com/citations?user=OI0HSa0AAAAJ&hl=en)
